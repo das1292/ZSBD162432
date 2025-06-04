@@ -1,0 +1,1 @@
+UPDATE EMPLOYEES SET manager_id = 1 WHERE employee_id IN (2, 3);

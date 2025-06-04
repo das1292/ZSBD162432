@@ -1,0 +1,1 @@
+DELETE FROM JOBS WHERE max_salary > 9000;
